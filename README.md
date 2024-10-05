@@ -2,6 +2,9 @@
 
 Link to dashboard: [Airbnb Dashboard](https://public.tableau.com/app/profile/ribah.shaikh/viz/AirbnbInvestmentAnalysis-Boston/Boston-AirbnbInvestmentAnalysis)
 
+![Boston - Airbnb Investment Analysis (1)](https://github.com/user-attachments/assets/0e35ed12-8983-4509-beb6-3e90a22004b7)
+
+
 ## Objective
 The purpose of this project is to provide potential Airbnb hosts with actionable insights into the most profitable neighborhoods in Boston.
 This analysis helps investors make informed decisions when choosing where to invest in Airbnb properties, considering factors such as price per night, occupancy rate, and overall potential revenue.

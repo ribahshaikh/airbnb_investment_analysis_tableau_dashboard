@@ -1,8 +1,8 @@
 # Airbnb Investment Analysis - Boston
 
-Link to dashboard: [Airbnb Dashboard](https://public.tableau.com/app/profile/ribah.shaikh/viz/AirbnbInvestmentAnalysis-Boston/Boston-AirbnbInvestmentAnalysis)
-<img src="https://github.com/user-attachments/assets/0e35ed12-8983-4509-beb6-3e90a22004b7" alt="drawing" style="width:200px;"/>
-![Boston - Airbnb Investment Analysis (1)](https://github.com/user-attachments/assets/0e35ed12-8983-4509-beb6-3e90a22004b7)
+Link to dashboard: [Airbnb Dashboard](https://public.tableau.com/app/profile/ribah.shaikh/viz/AirbnbInvestmentAnalysis-Boston/Boston-AirbnbInvestmentAnalysis) <br>
+
+<img src="https://github.com/user-attachments/assets/0e35ed12-8983-4509-beb6-3e90a22004b7" alt="drawing" style="width:600px;"/>
 
 
 ## Objective
